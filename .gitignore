@@ -1,0 +1,27 @@
+*.iml
+.gradle/
+/local.properties
+local.properties
+.idea/
+.DS_Store
+
+# Build output
+/build
+/app/build
+**/build/
+/captures
+.externalNativeBuild
+.cxx
+.kotlin/
+
+# Signing keys
+*.jks
+*.keystore
+
+# Node / Firebase Functions
+**/node_modules/
+
+# Tooling configs (personal)
+
+.firebase/
+skills-lock.json

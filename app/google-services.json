@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "896992306360",
+    "project_id": "agromanage-ca17c",
+    "storage_bucket": "agromanage-ca17c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896992306360:android:3478993cefc20c8a7a004d",
+        "android_client_info": {
+          "package_name": "com.example.agromanage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZj5LRMh0-3GI7PDLkSAcRCjHWRC0JYNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
