@@ -162,6 +162,7 @@ app/src/main/java/com/agromanage/
    - Προσθέστε το API key του OpenWeatherMap στο αρχείο `local.properties`:
      ```properties
      OPENWEATHER_API_KEY="your_api_key_here"
+     IMGBB_API_KEY = "your_api_key_here"
      ```
 4. **Build & Run:**
    - Ανοίξτε το project στο **Android Studio (Ladybug / Meerkat ή νεότερο)**.
